@@ -1,6 +1,3 @@
------ Template : https://docs.google.com/spreadsheets/d/1okypqnGHi80RYVsi2EDWY40lrBDOazaejj1TnQYvT2E/edit?gid=0#gid=0
-
-
 var cc = DataStudioApp.createCommunityConnector();
 
 // [START get_config] 
